@@ -48,3 +48,8 @@ span .barretta {
 a {
   color: #1abc9c;
 }
+
+img {
+  width: 100%;
+  border-radius: 10px;
+}
