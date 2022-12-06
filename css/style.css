@@ -35,7 +35,6 @@ body {
 }
 
 .header {
-  height: 490px;
   text-align: center;
 }
 
@@ -51,5 +50,11 @@ a {
 
 img {
   width: 100%;
+  border-radius: 10px;
+}
+
+.header img {
+  padding-top: 40px;
+  width: 20%;
   border-radius: 10px;
 }
