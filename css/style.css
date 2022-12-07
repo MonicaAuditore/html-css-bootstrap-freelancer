@@ -129,3 +129,7 @@ img {
   background-color: #15977d;
   border-color: #1abc9c;
 }
+
+#footer i {
+  padding-right: 5px;
+}
