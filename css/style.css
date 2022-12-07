@@ -39,6 +39,10 @@ span .barretta {
   background-color: white;
 }
 
+.nav-item a:hover {
+  color: #1abc9c !important;
+}
+
 a {
   color: #1abc9c;
 }
