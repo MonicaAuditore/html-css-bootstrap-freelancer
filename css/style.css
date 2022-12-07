@@ -47,6 +47,10 @@ a {
   color: #1abc9c;
 }
 
+a:hover {
+  color: #158d75;
+}
+
 img {
   width: 100%;
   border-radius: 10px;
