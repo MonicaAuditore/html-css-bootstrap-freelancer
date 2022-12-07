@@ -142,3 +142,17 @@ img {
   border: 1px solid #fff;
   font-size: 20px;
 }
+
+/* Small devices */
+@media screen and (max-width: 576px) {
+  .header img {
+    width: 50%;
+  }
+}
+
+/* Medium devices */
+@media (max-width: 768px) {
+  .header img {
+    width: 40%;
+  }
+}
