@@ -104,3 +104,28 @@ img {
   vertical-align: text-top;
   background-color: #000000;
 }
+
+.form-check-input:checked {
+  background-color: #1abc9c;
+  border-color: #1abc9c;
+}
+
+.form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #1abc9c;
+  outline: 0;
+  box-shadow: 0 0 0 0.25rem rgb(26 188 156 / 20%);
+}
+
+#about .btn:hover {
+  color: #1abc9c;
+  background-color: var(--bs-btn-hover-bg);
+  border-color: var(--bs-btn-hover-border-color);
+}
+
+#contact .btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: #15977d;
+  border-color: #1abc9c;
+}
